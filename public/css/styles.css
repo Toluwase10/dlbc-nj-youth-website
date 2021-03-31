@@ -345,7 +345,7 @@ Hero
 .hero {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("./images/group_pic.jpg") center/cover no-repeat fixed;
+    url("/images/group_pic.jpg") center/cover no-repeat fixed;
   display: flex;
   justify-content: center;
   align-items: center;
