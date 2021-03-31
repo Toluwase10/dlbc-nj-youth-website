@@ -1,2 +1,9 @@
 .DS_Store
 fontawesome-free-5.12.1-web
+dlbc-nj-youth-website/
+package-lock.json
+
+
+# Dependency directories
+node_modules/
+jspm_packages/
